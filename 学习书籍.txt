@@ -25,3 +25,23 @@
 13.编程卓越之道
 
 14.死亡之旅（第2版） Death March, Second Edition
+
+15.Web开发敏捷之道——应用Rails进行敏捷Web开发(第2版)
+
+16.Ajax修炼之道——Web 2.0入门  Pragmatic Ajax: a Web 2.0 Primer
+
+17.程序员修炼之道——从小工到专家
+
+18.项目自动化之道——如何建构、部署、监控Java应用
+
+19.Agile Java中文版：测试驱动开发的编程技术
+
+20.JUnit Recipes中文版——程序员实用测试技巧
+
+21.POJOs IN ACTION中文版  POJOs IN ACTION
+
+22.Spring专业开发指南  Pro Spring
+
+23.CSS 实用案例集（第2版）  CSS Cookbook
+
+24.精通正则表达式（第3版）  Mastering Regular Expressions
