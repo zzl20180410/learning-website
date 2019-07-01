@@ -1,6 +1,7 @@
 1.MIT（麻省理工）开放式课程
 	https://ocw.mit.edu/index.htm
-
+2.十六进制颜色码转换成RGB颜色值
+	https://www.sioe.cn/yingyong/yanse-rgb-16/
 
 
 
