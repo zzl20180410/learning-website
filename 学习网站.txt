@@ -2,8 +2,10 @@
 	https://ocw.mit.edu/index.htm
 2.十六进制颜色码转换成RGB颜色值
 	https://www.sioe.cn/yingyong/yanse-rgb-16/
-
-
+3.牛客网
+   https://www.nowcoder.com/
+4.领扣(中国版leetcode)
+   https://leetcode-cn.com/
 
 
 
